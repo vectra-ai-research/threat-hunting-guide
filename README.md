@@ -1,4 +1,4 @@
-# Vectra Threat Hunting Guide
+# Vectra AI Threat Hunting Guide
 
 A comprehensive collection of threat hunting queries designed to help security analysts detect, investigate, and respond to potential security threats across enterprise environments.
 
